@@ -1,3 +1,4 @@
+
 # Intern Progress Tracking System
 
 A full-stack app for tracking intern onboarding, task assignment, and progress.
@@ -104,3 +105,6 @@ This is a working scaffold meant to be extended. Reasonable next additions:
 - Refresh tokens / token expiry handling on the frontend
 - Automated tests (Jest + Supertest for the API, React Testing Library for the UI)
 - Deployment configs (Docker Compose for API + MongoDB, static hosting for the frontend)
+=======
+# Internship-task-2-Internship-Prograss-Tracker
+🚀 **MERN Stack Internship Project – Intern Tracker**  I’m excited to share my latest project, **Intern Tracker**, developed using the **MERN Stack**.  💻 **Technologies Used:** • MongoDB • Express.js • React.js • Node.js • JavaScript 
